@@ -17,7 +17,7 @@ public class HelloApplication extends Application  { //inheriting core functiona
     public static void main(String[] args) {
         launch(args); //method from Application class, must be called to setup javafx application
     }
-
+//TEST
     // TODO: follow steps 2-9 in README.md to create a start method
 
     // TODO: follow steps 10-21 in README.md to add objects to your layout (inside start)
